@@ -29,7 +29,6 @@ label2.pack()  # 위젯 배치
 
 #button 눌렀을 때 지도 이미지 변경하기
 def loc_hangang():
-
    img1 = PhotoImage(file='C:\\Users\\judy5\\PycharmProjects\\waterlevel_p\\hangang.png')
    img1 = img1.zoom(1)
    panel.configure(image=img1)
