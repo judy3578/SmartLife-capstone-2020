@@ -1,3 +1,5 @@
+#학습용 코드 (ipynb): 김혜주
+
 import pandas as pd
 import urllib.request
 import tkinter.messagebox
