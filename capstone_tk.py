@@ -1,3 +1,5 @@
+#GUI 코드 (tkinter py): 김현주, 강호준, 최정식
+
 from tkinter import *
 import tkinter
 import urllib
